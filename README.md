@@ -23,6 +23,11 @@ The Developer Tour Server Site [Server](https://murmuring-stream-81479.herokuapp
 </li>
 </ul>
 
+# Short Details For Site
+MileStone-Shop (Drone Dealer) is the largest UAV dealer
+in the Bangladesh and we are DJI's largest and most experienced authorized
+service center in the Bangladesh.
+
 ## My Deploy platform
 <ul>
 <li>Firebase</li>
