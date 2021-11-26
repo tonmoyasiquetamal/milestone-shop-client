@@ -1,7 +1,7 @@
 # Creating Client & Server Site For niche website
 
-The Developer Tour Client Site [MileStone-Shop](https://milestone-shop.web.app/).
-The Developer Tour Server Site [Server](https://murmuring-stream-81479.herokuapp.com/).
+The Milestone-Shop Client Site [MileStone-Shop](https://milestone-shop.web.app/).
+The Milestone-Shop Server Site [Server](https://murmuring-stream-81479.herokuapp.com/).
 
 ## This Website Build By Using These Below Materials
 <ul>
